@@ -146,5 +146,3 @@ VITE_SOCKET_URL=http://localhost:5000
 - **Auth**: JWT (7-day tokens)
 
 ---
-
-Built with ❤️ — ChatSpace
